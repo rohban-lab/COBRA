@@ -1,0 +1,16 @@
+{
+    "mvtecad" : {
+        "rotation": 0.0,
+        "cutperm": 0.0,
+        "cutout": 0.0,
+        "cutpaste": 1.0,
+        "elastic": 0.0
+    },
+    "cifar10" : {
+        "rotation": 1.0,
+        "cutperm": 0.0,
+        "cutout": 0.0,
+        "cutpaste": 0.0,
+        "elastic": 0.0
+    }
+}
