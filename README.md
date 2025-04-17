@@ -73,11 +73,10 @@ To train our unlabeled multi-class setup (code & example coming soon):
 
 ## 📊 Evaluation
 
-We provide pre-trained checkpoints for the COBRA model:  
+In the [Colab](https://colab.research.google.com/drive/1q_eVTCpScKjsD90i7fMhHj2jaoo9BHhN?usp=sharing) file, you can find the exact arguments used for both high and low-resolution datasets.
+
+* We provide pre-trained checkpoints for the COBRA model:  
 🔗 [Download Checkpoints](https://drive.google.com/drive/folders/1p6FkGOWI78_1ZZpAVWBfP8alESug2k5P?usp=sharing)
-
-* In the [Colab](https://colab.research.google.com/drive/1q_eVTCpScKjsD90i7fMhHj2jaoo9BHhN?usp=sharing) file, you can find the exact arguments used for both high and low-resolution datasets.
-
 
 ### 🔹 One-Class Evaluation
 
