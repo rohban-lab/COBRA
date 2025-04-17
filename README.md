@@ -5,6 +5,12 @@ This repository contains the official PyTorch implementation of our ICLR 2025 pa
 ["**Mitigating Spurious Negative Pairs for Robust Industrial Anomaly Detection**"](https://arxiv.org/html/2501.15434v1)  
 by [Hossein Mirzaie](), [Mojtaba Nafez](), [Jafar Habibi](), [Mohammad Sabokrou](), and [Mohammad Hossein Rohban]().
 
+
+<p align="center">
+    <img src="figures/COBRA.png" width="900">
+</p>
+
+
 <p align="center">
     <img src="figures/main_figure.png" width="900">
 </p>
